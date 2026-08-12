@@ -1,4 +1,11 @@
-# Atmospheric Reentry Simulator
+# Atmospheric-Reentry-Simulator
+
+[![Language](https://img.shields.io/badge/C++17-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://github.com/skytruong90/Atmospheric-Reentry-Simulator)
+[![Domain](https://img.shields.io/badge/Domain-Hypersonic_M%26S-red?style=flat-square)](https://github.com/skytruong90/Atmospheric-Reentry-Simulator)
+[![Status](https://img.shields.io/badge/Status-Active-00FF88?style=flat-square)](https://github.com/skytruong90/Atmospheric-Reentry-Simulator)
+
+## Project Overview
+## Atmospheric Reentry Simulator
 
 A documented C++17 point-mass atmospheric-entry simulator. It combines a layered
 1976 Standard Atmosphere approximation, Mach-dependent drag, convective
@@ -65,3 +72,11 @@ auto samples = reentry::Simulator{}.run(vehicle, initial, options);
 
 No license has been declared by the repository owner. All rights are reserved
 until a license file is added.
+
+---
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Repository-%E2%86%97-00C8FF?style=for-the-badge&labelColor=050A0F)](https://github.com/skytruong90/Atmospheric-Reentry-Simulator)
+
+</div>
