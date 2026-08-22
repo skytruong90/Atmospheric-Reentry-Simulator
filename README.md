@@ -68,11 +68,6 @@ reentry::SimulationOptions options{0.05, 2000.0, 1.0};
 auto samples = reentry::Simulator{}.run(vehicle, initial, options);
 ```
 
-## License
-
-No license has been declared by the repository owner. All rights are reserved
-until a license file is added.
-
 ---
 
 <div align="center">
